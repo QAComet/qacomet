@@ -1,1 +1,0 @@
-import{_ as s,c as o,o as t,a as e}from"./entry.4c559405.js";const a={},c={class:"page-wrapper"},r=e("div",{class:"legal-outer"},[e("h1",{class:"page-header"},"Terms & Conditions"),e("p",null,"Todo...")],-1),n=[r];function _(d,l){return t(),o("div",c,n)}const p=s(a,[["render",_]]);export{p as default};
