@@ -1,1 +1,0 @@
-import{_ as o}from"./Du8iVdrZ.js";import{f as r,g as e,o as p}from"./DiyP6pou.js";import"./Djecwb_v.js";import"./DMFARuCF.js";import"./aHVSc_rA.js";import"./C-v3KzvZ.js";import"./BpUWW4O-.js";import"./BqUvtMHT.js";import"./DEZhdWR8.js";const B=r({__name:"architecture",setup(a){return(m,c)=>{const t=o;return p(),e(t,{path:"playwright/architecture"})}}});export{B as default};
