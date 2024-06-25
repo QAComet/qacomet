@@ -1,0 +1,1 @@
+.jobs-list{gap:2rem}.jobs-list,.jobs-list .job-wrapper{display:flex;flex-direction:column}.jobs-list .job-wrapper{border:1px solid var(--text);border-radius:.5rem;padding:1rem}.jobs-list .job-wrapper .job-title{font-weight:700;padding-bottom:.25rem}.jobs-list .job-wrapper .job-link{color:var(--main);display:block;margin-left:auto;text-decoration:underline}
